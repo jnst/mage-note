@@ -8,10 +8,11 @@
 | Language         | TypeScript    | v2.6.2  |
 | Package Manager  | yarn          | v1.7.0  |
 | Web Framework    | nest          | v5.2.0  |
+| Template Engine  | Handlebars.js | v4.0.1  |
+| SSR              | Nuxt.js       | v1.4.1  |
+| Web UI Framework | Vue.js        | v2.5.16 |
 | ORM              | wetland       | v3.1.0  |
 | Testing          | Jest          | v21.2.1 |
-| Web UI Framework | Vue.js        | v2.5.16 |
-| Template Engine  | Handlebars.js | v4.0.1 |
 
 ## Installation
 
